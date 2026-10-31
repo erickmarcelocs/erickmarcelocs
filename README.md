@@ -4,7 +4,7 @@ Técnico em Desenvolvimento de Sistemas e desenvolvedor em formação, apaixonad
 
 Atualmente, estou desenvolvendo projetos de sistemas e aplicações web, aprimorando minhas habilidades e buscando projetos na área de **Desenvolvimento de Sistemas**.
 
-**Projetos:** desenvolvimento web, sistemas em andamento e programação de robôs para a FTC.
+**Projetos:** desenvolvimento web e sistemas.
 
 **Vamos conversar!** Estou aberto a trocar conhecimentos, aprender novas tecnologias e colaborar em projetos.
 
