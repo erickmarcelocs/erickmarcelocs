@@ -44,7 +44,6 @@ Há 5 anos participo da robótica competitiva, atuando em programação, gestão
 
 🔹 **Sistemas:** aplicações em desenvolvimento para praticar lógica de programação e criar soluções tecnológicas.
 
-🔹 **Robótica FTC:** programação de robôs utilizando Java.
 
 👉 [Confira meus repositórios](https://github.com/erickmarcelocs?tab=repositories)
 
